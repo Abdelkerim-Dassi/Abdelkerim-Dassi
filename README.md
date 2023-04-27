@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abdelkerim dassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelkerim dassi" height="30" width="40" /></a>
-<a href="https://fb.com/abdelkerim dassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelkerim dassi" height="30" width="40" /></a>
-<a href="https://instagram.com/kerymdessi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kerymdessi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdelkerim-dassi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelkerim dassi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abdelkerim.dassi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelkerim dassi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kerymdessi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kerymdessi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
