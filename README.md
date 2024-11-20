@@ -3,7 +3,7 @@
 
 <img align ="Right" class="avatar rounded-2 avatar-user" src="https://avatars.githubusercontent.com/u/92162363?s=400&amp;u=350240b68e6808d21a3740a68826e3949a16267a&amp;v=4" width="200" height="200" alt="@Abdelkerim-Dassi">
 
-- 🌱 I’m currently working on an educational intelligent platform that will include AI features 
+- 🌱 I’m currently working on a Advanced Retrieval Agent for **Confluence** Project Assistance that will include **RAG** pipeline. 
 
 - 📫 How to reach me **abdelkerymdessi@gmail.com    abdelkerim.dassi@esprit.tn**
 
