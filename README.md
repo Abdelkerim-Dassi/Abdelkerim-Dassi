@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on a Advanced Retrieval Agent for **Confluence** Project Assistance that will include **RAG** pipeline. 
 
-- 📫 How to reach me **abdelkerymdessi@gmail.com    abdelkerim.dassi@esprit.tn**
+- 📫 How to reach me **abdelkerymdessi@gmail.com    abdelkerimdassi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
